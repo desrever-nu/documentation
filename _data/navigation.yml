@@ -56,5 +56,11 @@ en:
     - heading: Events of 2014
     - heading: Events of 2015
   events2013:
+    - resource: The Peershares Template
+      url: "#the-peershares-template"
+    - resource: The World's First Stable Digital Currency
+      url: "#the-worlds-first-stable-digital-currency"
+    - resource: First Liquidity Provider Custodians
+      url: "#first-liquidity-provider-custodians"
   events2014:
   events2015:
